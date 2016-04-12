@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export WERCKER_WP_CLI_ENV_USER
+export WERCKER_WP_CLI_ENV_DIR

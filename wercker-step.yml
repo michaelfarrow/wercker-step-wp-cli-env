@@ -1,0 +1,14 @@
+name: wp-cli-env
+version: 0.1.0
+description: Environment configuration for command line interface for WordPress.
+keywords:
+  - wordpress
+  - cli
+  - env
+properties:
+  dir:
+    type: string
+    required: false
+  user:
+    type: string
+    required: false
